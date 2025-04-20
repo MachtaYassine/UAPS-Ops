@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: UAPS-mlops
+  name: uaps-mlops
 spec:
   project: default
   source:
